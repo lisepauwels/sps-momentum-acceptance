@@ -1,0 +1,8 @@
+xsuite_root: /Users/lisepauwels/phd/code/Xsuite
+legacy_workspace_root: /Users/lisepauwels/sps_simulations
+data_root: /Users/lisepauwels/phd/data
+measurement_md_root: /Users/lisepauwels/phd/data/measurement/md
+simulation_root: /Users/lisepauwels/phd/data/simulation
+reference_lines_root: /Users/lisepauwels/phd/data/reference/lines
+supervisor_offmom_sim_root: /Users/lisepauwels/phd/code/sps-offmom-sim
+supervisor_offmom_scans_root: /Users/lisepauwels/phd/code/sps-offmom-scans
