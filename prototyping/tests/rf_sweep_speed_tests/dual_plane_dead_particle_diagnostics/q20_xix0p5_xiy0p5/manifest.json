@@ -1,0 +1,21 @@
+{
+  "batch_dir": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/rf_sweep_speed_tests/dual_plane_dead_particle_diagnostics/q20_xix0p5_xiy0p5",
+  "planes": [
+    "DPneg",
+    "DPpos"
+  ],
+  "tune_map_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+  "tail_turns": 100,
+  "tail_particles": 0,
+  "saved_files": [
+    "DPpos/monitor_arrays.npz",
+    "DPpos/final_particles.npz",
+    "DPneg/monitor_arrays.npz",
+    "DPneg/final_particles.npz",
+    "dead_particle_tune_diagram_both_planes.png",
+    "tail_particle_traces_normalized.png",
+    "std_explosion_evolution.png",
+    "death_aligned_normalized_positions.png"
+  ],
+  "cohort_particles": 1
+}

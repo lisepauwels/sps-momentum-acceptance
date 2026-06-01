@@ -1,0 +1,16 @@
+{
+  "batch_dir": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/rf_sweep_speed_outputs/three_speed_scan_20260414",
+  "cases": {
+    "DPpos_slow": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/rf_sweep_speed_outputs/three_speed_scan_20260414/three_speed_scan_20260414_DPpos_slow",
+    "DPpos_nominal": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/rf_sweep_speed_outputs/three_speed_scan_20260414/three_speed_scan_20260414_DPpos_nominal",
+    "DPpos_fast": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/rf_sweep_speed_outputs/three_speed_scan_20260414/three_speed_scan_20260414_DPpos_fast",
+    "DPneg_slow": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/rf_sweep_speed_outputs/three_speed_scan_20260414/three_speed_scan_20260414_DPneg_slow",
+    "DPneg_nominal": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/rf_sweep_speed_outputs/three_speed_scan_20260414/three_speed_scan_20260414_DPneg_nominal",
+    "DPneg_fast": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/rf_sweep_speed_outputs/three_speed_scan_20260414/three_speed_scan_20260414_DPneg_fast"
+  },
+  "sweep_per_turn_hz": {
+    "slow": 0.5,
+    "nominal": 1.0,
+    "fast": 2.4551111909641804e-05
+  }
+}

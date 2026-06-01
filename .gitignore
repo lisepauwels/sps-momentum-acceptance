@@ -18,3 +18,17 @@ LossLocationFiles/
 *.npz
 *.pdf
 *.png
+!sps-chromaticity-maps/
+!sps-chromaticity-maps/**/*.npz
+!sps-chromaticity-maps/**/*.json
+!sps-chromaticity-maps/**/*.md
+
+# Committed reference data
+!data/
+!data/*.json
+!studies/intensity_scan2/data/
+!studies/intensity_scan2/data/*.json
+
+# New error model sweep maps (small, needed to run analysis)
+!prototyping/new_model_sweeps/maps/
+!prototyping/new_model_sweeps/maps/**/*.npz

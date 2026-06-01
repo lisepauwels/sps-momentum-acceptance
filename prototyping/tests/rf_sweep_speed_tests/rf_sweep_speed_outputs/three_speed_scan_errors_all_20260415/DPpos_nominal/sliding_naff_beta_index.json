@@ -1,0 +1,12 @@
+{
+  "horizontal": {
+    "available": true,
+    "json": "sliding_naff_beta_horizontal.json",
+    "parquet": "sliding_naff_beta_horizontal.parquet"
+  },
+  "vertical": {
+    "available": true,
+    "json": "sliding_naff_beta_vertical.json",
+    "parquet": "sliding_naff_beta_vertical.parquet"
+  }
+}

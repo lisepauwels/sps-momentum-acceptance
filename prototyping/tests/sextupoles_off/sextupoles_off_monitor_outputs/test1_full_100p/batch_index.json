@@ -1,0 +1,7 @@
+{
+  "batch_dir": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/sextupoles_off/sextupoles_off_monitor_outputs/sextupoles_off_monitor",
+  "cases": {
+    "DPpos": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/sextupoles_off/sextupoles_off_monitor_outputs/sextupoles_off_monitor/DPpos",
+    "DPneg": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/sextupoles_off/sextupoles_off_monitor_outputs/sextupoles_off_monitor/DPneg"
+  }
+}

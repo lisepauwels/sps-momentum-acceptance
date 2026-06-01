@@ -1,0 +1,9 @@
+{
+  "completed_full_path": false,
+  "failure_turn": 1050.0,
+  "failure_qx_target": 17.7675,
+  "failure_qy_target": 20.18,
+  "matched_points": 8,
+  "final_schedule_turn": 6000.0,
+  "note": "Schedule matching failed partway through; knobs are frozen at the last matched point."
+}

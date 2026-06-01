@@ -1,8 +1,16 @@
-xsuite_root: /Users/lisepauwels/phd/code/Xsuite
+xsuite_root: /Users/lisepauwels/Xsuite
 legacy_workspace_root: /Users/lisepauwels/sps_simulations
-data_root: /Users/lisepauwels/phd/data
-measurement_md_root: /Users/lisepauwels/phd/data/measurement/md
-simulation_root: /Users/lisepauwels/phd/data/simulation
-reference_lines_root: /Users/lisepauwels/phd/data/reference/lines
-supervisor_offmom_sim_root: /Users/lisepauwels/phd/code/sps-offmom-sim
-supervisor_offmom_scans_root: /Users/lisepauwels/phd/code/sps-offmom-scans
+
+# sps-simulations GitLab repo: HTCondor simulation results
+sps_simulations_data_root: /Users/lisepauwels/phd/code/sps-simulations
+
+# Chromaticity maps and sweep trajectory maps
+sps_chromaticity_maps_root: /Users/lisepauwels/phd/code/sps-momentum-acceptance/sps-chromaticity-maps
+
+# MD measurement data (sps-offmom-scans repo)
+offmom_scans_results_root: /Users/lisepauwels/phd/code/sps-offmom-scans/results
+frederik_offmom_sim_root: /Users/lisepauwels/phd/code/sps-offmom-sim
+frederik_offmom_scans_root: /Users/lisepauwels/phd/code/sps-offmom-scans
+
+# SPS line (update path when regenerating from sps-xsuite-model)
+line_with_ap_path: /Users/lisepauwels/phd/code/sps-momentum-acceptance/data/sps_with_aperture_inj_q20_beam_sagitta4.json

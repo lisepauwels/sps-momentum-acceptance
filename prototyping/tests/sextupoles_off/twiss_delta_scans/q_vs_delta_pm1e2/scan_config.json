@@ -1,0 +1,10 @@
+{
+  "line_path": "/Users/lisepauwels/phd/code/sps-xsuite-model/sps_with_aperture_inj_q20_beam_sagitta4.json",
+  "qx": 20.13,
+  "qy": 20.18,
+  "error_variant": "none",
+  "delta_min": -0.01,
+  "delta_max": 0.01,
+  "num_points": 201,
+  "output_dir": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/sextupoles_off/twiss_delta_scans/q_vs_delta_pm1e2"
+}

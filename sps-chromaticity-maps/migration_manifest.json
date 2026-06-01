@@ -1,0 +1,2288 @@
+{
+  "summary": {
+    "target_root": "/Users/lisepauwels/phd/data/sps-chromaticity-maps",
+    "copied_count": 217,
+    "copied_bytes": 247624,
+    "skipped_identical_count": 31,
+    "skipped_conflict_count": 2,
+    "conflict_rule": "Existing target kept. Copy order prefers repo-local maps over legacy prototyping maps.",
+    "copied_by_target_subdir": {
+      "with_errors": {
+        "count": 72,
+        "bytes": 81288
+      },
+      "with_errors/quadrupole_b6": {
+        "count": 31,
+        "bytes": 35224
+      },
+      "without_errors": {
+        "count": 72,
+        "bytes": 82032
+      },
+      "simplified": {
+        "count": 42,
+        "bytes": 49080
+      }
+    }
+  },
+  "copied": [
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.100_xiy-0.100.npz",
+      "size_bytes": 1120,
+      "sha256": "9d1e1d1c72893eb94e7a489e379e9e0ecbf225fc5624111276ff34e05217b987",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.100_xiy-0.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.200_xiy-0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "5f774b3476bde8a805de2d5a0db9223b02569ec21a951f828bc12cbfae815d94",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.200_xiy-0.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.300_xiy-0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "a3251e0527cd5131b39b3acdfad856dc9587d4e6049681aa880d2bf73006047a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.300_xiy-0.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.400_xiy-0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "4efc0d743140e032c0c5045bb6704afba0a3274a6301ddcb96cd703f885e2e5f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.400_xiy-0.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.500_xiy-0.500.npz",
+      "size_bytes": 1168,
+      "sha256": "65b9958d03564d501664291c00f32c21afa3704080079072c6b61427e7d7da85",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.500_xiy-0.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.600_xiy-0.600.npz",
+      "size_bytes": 1168,
+      "sha256": "dff9c381797595e37704a742de73175eebfe221c52d8662736566e4f0d6798e9",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.600_xiy-0.600.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.700_xiy-0.700.npz",
+      "size_bytes": 1144,
+      "sha256": "63838efa1214a4cc54c5a9a18e2add5d688f0e33a2ae555376648d26c18bfd35",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.700_xiy-0.700.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.800_xiy-0.800.npz",
+      "size_bytes": 1168,
+      "sha256": "2660cfe16bb94de4140e9a9f349b3f8ffc21d5300a053acfa2132ae8d12df436",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.800_xiy-0.800.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-0.900_xiy-0.900.npz",
+      "size_bytes": 1168,
+      "sha256": "5bb580f5e3a786a2c4dfc8026cbfa98dd4558101ed5aa70255eb781cdc3bbe7a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-0.900_xiy-0.900.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-1.000_xiy-1.000.npz",
+      "size_bytes": 1168,
+      "sha256": "bc73445f4d062cac0b4583afabfce0718494ce20462ead5de63135ddb2318422",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-1.000_xiy-1.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-1.100_xiy-1.100.npz",
+      "size_bytes": 1144,
+      "sha256": "19f21e560ad7e92979d79e3a3ab646e3a6d04e483f57d24f610e265edfa35474",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-1.100_xiy-1.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-1.200_xiy-1.200.npz",
+      "size_bytes": 1120,
+      "sha256": "96168d11a696e0c9e590a74041c31ed6bd85d97a4e385c64e45e217dac97f9db",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-1.200_xiy-1.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-1.300_xiy-1.300.npz",
+      "size_bytes": 1120,
+      "sha256": "0c5970d2da73785140d02eae2f23132018e468cd4c36812d8b5ee8c6b3034c4f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-1.300_xiy-1.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-1.400_xiy-1.400.npz",
+      "size_bytes": 1144,
+      "sha256": "ee6697c9b6e513b28b4e852e3b134584323432a89f3a9237bd396a657cab4409",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-1.400_xiy-1.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix-1.500_xiy-1.500.npz",
+      "size_bytes": 1168,
+      "sha256": "f3c7219ca9e24fa335efca322f1306afce3e72aa243992bc1eab7873d6dbecbb",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix-1.500_xiy-1.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.000_xiy0.000.npz",
+      "size_bytes": 1144,
+      "sha256": "60a3821a60a6c95c0c590e0ecb0436108473681c22b0e2f27fe4352567f4039e",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.000_xiy0.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.100_xiy0.100.npz",
+      "size_bytes": 1144,
+      "sha256": "4719c1c2223873c364b0fba429933e8c171eca9c9c5a46d98f6a04f295fe1498",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.100_xiy0.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.200_xiy0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "d59db6c28375e0f1c610356642df9bb6198481c251613281a7ec30cf150c077a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.200_xiy0.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.300_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "ce664a13b15f1f26c053df7df7ca0f7d100f1986abfac0d2372fd1ed4ddd99eb",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.300_xiy0.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.400_xiy0.400.npz",
+      "size_bytes": 1120,
+      "sha256": "e28aefdf98fbd16fd89f949ef24a6f06b6825b0e51289b447a041d105e67b029",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.400_xiy0.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "size_bytes": 1120,
+      "sha256": "8af6916a4963e6e5a70e35bc5d2d1b6f3ca3770303267f0a8f2b58df573d8c31",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "9127db2f261bdb8ca9bd2e39e66a562c8cbaad3e60720b3da1459916570defdb",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.600.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.700.npz",
+      "size_bytes": 1120,
+      "sha256": "98eb41b89f710dadcf1a6f218bb4e6dbadbd3dacca7a74c809d181833375d476",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.700.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.800.npz",
+      "size_bytes": 1096,
+      "sha256": "75edc87dae89b4d8d825efc0f8bed5151567d58f257ec876129fc52d74e4fb36",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.800.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.900_xiy0.900.npz",
+      "size_bytes": 1120,
+      "sha256": "6cd1d346eb2e40d07a1dc27bbabf4c9a934439a35d6e6c239d766d598b134ea9",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.900_xiy0.900.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix1.000_xiy1.000.npz",
+      "size_bytes": 1120,
+      "sha256": "5244da1984c80b5e0a6bcc41c2f181fc075eee53e291df746274cb3d6a443e80",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix1.000_xiy1.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix1.100_xiy1.100.npz",
+      "size_bytes": 1072,
+      "sha256": "cf9652169b9e0ab98c7ddb75ad7e6f704389e9df22fb2021fa218f4f7fe91e40",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix1.100_xiy1.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix1.200_xiy1.200.npz",
+      "size_bytes": 1120,
+      "sha256": "2bac3d6f6f147f6a3817c082b2c625345ec55372a5ba9dddcce6bbee773faddc",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix1.200_xiy1.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix1.300_xiy1.300.npz",
+      "size_bytes": 1096,
+      "sha256": "fec57d7c9bc7089a19d5a775ce37bc80ab43bc6f3a32820b97183602b24af696",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix1.300_xiy1.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix1.400_xiy1.400.npz",
+      "size_bytes": 1096,
+      "sha256": "e21c20dfeea0398f2d08359b87edaa00ae87e5942dc6f3ab42abddf9d141f9e5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix1.400_xiy1.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix1.500_xiy1.500.npz",
+      "size_bytes": 1120,
+      "sha256": "ec98bd4d36da0c94342fd7b10dbf74142911c5c575c691cac27a9628ec1453e9",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix1.500_xiy1.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.100_xiy-0.100.npz",
+      "size_bytes": 1144,
+      "sha256": "e454fb109a0f226caa51069be29d43a6e666bb843e378b7f54303f5611c34438",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.100_xiy-0.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.200_xiy-0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "2c1a9266ab981969ff9ecc18a374f3ba59ed8dfa516e64129e608aa381019e8a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.200_xiy-0.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.300_xiy-0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "c27c29dc758b5cb9e11cc51fe2e4b01dc0cc9e4f07be1a3c5488e428f9bfd695",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.300_xiy-0.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.400_xiy-0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "68afa5771b116d6fa59e6f9509a731807278487b08ff95352221b12752dd30db",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.400_xiy-0.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.500_xiy-0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "ec05fd9003009462be1d210c6b1542f78249e00333aa687a5fb0a17a2dda63ba",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.500_xiy-0.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.600_xiy-0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "aeca1720f3ab2d16207c10c5afb42874660b935a2937da262b50c23b31ac7a8d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.600_xiy-0.600.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.700_xiy-0.700.npz",
+      "size_bytes": 1120,
+      "sha256": "72f4216abda2b73f6f6d9cdb999a712cd21e84b819b5643374cce2ecba62487b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.700_xiy-0.700.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.800_xiy-0.800.npz",
+      "size_bytes": 1144,
+      "sha256": "6a17166a5e1547aeb795902f5c2ec3279254916597e7c9134b993a2740d86353",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.800_xiy-0.800.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.900_xiy-0.900.npz",
+      "size_bytes": 1120,
+      "sha256": "b7b86da94e00f5bb531dd9db429d0ac6980df9d432d0da34415b2a452d626f0c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-0.900_xiy-0.900.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.000_xiy-1.000.npz",
+      "size_bytes": 1144,
+      "sha256": "744643077f45ac8703cbd835c99a112b9a90017c68973c7e417cda919ffe3ea3",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.000_xiy-1.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.100_xiy-1.100.npz",
+      "size_bytes": 1120,
+      "sha256": "a8a8c8cf69e1f8138c77ccecfd72f8377efdf94361c55ec2e95eb71d862d8b76",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.100_xiy-1.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.200_xiy-1.200.npz",
+      "size_bytes": 1168,
+      "sha256": "5f7175ff58917ce96e529fe81c18113f0a4cc66bde54660f8045a167641059bc",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.200_xiy-1.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.300_xiy-1.300.npz",
+      "size_bytes": 1120,
+      "sha256": "326bf7acf1e071e0bfb01ed233e332732bbea73c0326eb6e1a1f0f579f4d6c08",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.300_xiy-1.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.400_xiy-1.400.npz",
+      "size_bytes": 1072,
+      "sha256": "45e806ff5b752b85bf4bce323cddd9d4841aef1da441260b21728765bc50b014",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.400_xiy-1.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.500_xiy-1.500.npz",
+      "size_bytes": 1144,
+      "sha256": "9da81c109f91ff7e6b09ff6b77b9c169a88f6004659be24d73622fc608842bd5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix-1.500_xiy-1.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.000_xiy0.000.npz",
+      "size_bytes": 1144,
+      "sha256": "3e35d6dfa14009fc6a5fd35811b22b07b8f961c2c5f9104b2d7641df6f58c750",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.000_xiy0.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.100_xiy0.100.npz",
+      "size_bytes": 1144,
+      "sha256": "e4815cec494fe18ff1e237bdf7839489766e088625f0a6e826d9ec40f8e77314",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.100_xiy0.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.200_xiy0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "9cfb0a1ed5229e7c067187b29d2d725a8dd6c9904ace514bdda3f99556d4e1d7",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.200_xiy0.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.300_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "0fbd8913dd596237fdc0f53a90ad738a044c27984de67ece749133f88aaa7b69",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.300_xiy0.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.400_xiy0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "ffdf1cf72c9718affd754735f974af8f7787e5a7dc2c4c5c62e574472d93f84b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.400_xiy0.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "a4cca17ff47870266837003593b41bbc8a9e4693182b2f71fed0c8d2637b2834",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "b3841c22477b5f053c23e76e0676986c608b8951cc8c14425e7769646d22603b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.600.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.700.npz",
+      "size_bytes": 1120,
+      "sha256": "ce948da3307920e8c9a3d90f513f465773347644cd7af591a492363b136b9be5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.700.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.800.npz",
+      "size_bytes": 1120,
+      "sha256": "661464f9612362fce62ca8ee6ede92ec76d8a22b5d2e2a2881c70cd77d22fe0d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.800.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.900_xiy0.900.npz",
+      "size_bytes": 1120,
+      "sha256": "8e3566611fc029cdfcf0e907c8f9eddff464670d204bfbd4874c203d7ea67e13",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix0.900_xiy0.900.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.000_xiy1.000.npz",
+      "size_bytes": 1144,
+      "sha256": "545989a4d05938b93ee335726e28ba5411a7d628182a67e98132516ca0ea0571",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.000_xiy1.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.100_xiy1.100.npz",
+      "size_bytes": 1168,
+      "sha256": "c6b4415c65914202fede002dca3807dd8a9b5f4b5ecd57bc376cb8e9eaa5c938",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.100_xiy1.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.200_xiy1.200.npz",
+      "size_bytes": 1144,
+      "sha256": "01bffc88731b7c1a739fda136a799a29ebd7839ed8a09e0a6ad82cf889a2444f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.200_xiy1.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.300_xiy1.300.npz",
+      "size_bytes": 1144,
+      "sha256": "b6ae033347db230cf669216a306a923297b13a3921d420a1d81bea9b841ed5c4",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.300_xiy1.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.400_xiy1.400.npz",
+      "size_bytes": 1144,
+      "sha256": "2703834370025321327212e2f6ec4d85c8f2667fb694829b579d7240317b11de",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.400_xiy1.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithErrors_quadrupole_b6",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithErrors_quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.500_xiy1.500.npz",
+      "size_bytes": 1096,
+      "sha256": "9862bacb5265836043fadffb5ba7f6b3adf723a6075f52fdd471c1b64f23e54c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/quadrupole_b6/tune_map_Qx20.130_Qy20.180_xix1.500_xiy1.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.100_xiy-0.100.npz",
+      "size_bytes": 1144,
+      "sha256": "e454fb109a0f226caa51069be29d43a6e666bb843e378b7f54303f5611c34438",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.100_xiy-0.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.200_xiy-0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "2c1a9266ab981969ff9ecc18a374f3ba59ed8dfa516e64129e608aa381019e8a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.200_xiy-0.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.300_xiy-0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "c27c29dc758b5cb9e11cc51fe2e4b01dc0cc9e4f07be1a3c5488e428f9bfd695",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.300_xiy-0.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.400_xiy-0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "68afa5771b116d6fa59e6f9509a731807278487b08ff95352221b12752dd30db",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.400_xiy-0.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.500_xiy-0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "ec05fd9003009462be1d210c6b1542f78249e00333aa687a5fb0a17a2dda63ba",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.500_xiy-0.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.600_xiy-0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "aeca1720f3ab2d16207c10c5afb42874660b935a2937da262b50c23b31ac7a8d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.600_xiy-0.600.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.700_xiy-0.700.npz",
+      "size_bytes": 1120,
+      "sha256": "72f4216abda2b73f6f6d9cdb999a712cd21e84b819b5643374cce2ecba62487b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.700_xiy-0.700.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.800_xiy-0.800.npz",
+      "size_bytes": 1144,
+      "sha256": "6a17166a5e1547aeb795902f5c2ec3279254916597e7c9134b993a2740d86353",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.800_xiy-0.800.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.900_xiy-0.900.npz",
+      "size_bytes": 1120,
+      "sha256": "b7b86da94e00f5bb531dd9db429d0ac6980df9d432d0da34415b2a452d626f0c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.900_xiy-0.900.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.000_xiy-1.000.npz",
+      "size_bytes": 1144,
+      "sha256": "744643077f45ac8703cbd835c99a112b9a90017c68973c7e417cda919ffe3ea3",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.000_xiy-1.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.100_xiy-1.100.npz",
+      "size_bytes": 1120,
+      "sha256": "a8a8c8cf69e1f8138c77ccecfd72f8377efdf94361c55ec2e95eb71d862d8b76",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.100_xiy-1.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.200_xiy-1.200.npz",
+      "size_bytes": 1168,
+      "sha256": "5f7175ff58917ce96e529fe81c18113f0a4cc66bde54660f8045a167641059bc",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.200_xiy-1.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.300_xiy-1.300.npz",
+      "size_bytes": 1120,
+      "sha256": "326bf7acf1e071e0bfb01ed233e332732bbea73c0326eb6e1a1f0f579f4d6c08",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.300_xiy-1.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.400_xiy-1.400.npz",
+      "size_bytes": 1072,
+      "sha256": "45e806ff5b752b85bf4bce323cddd9d4841aef1da441260b21728765bc50b014",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.400_xiy-1.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.500_xiy-1.500.npz",
+      "size_bytes": 1144,
+      "sha256": "9da81c109f91ff7e6b09ff6b77b9c169a88f6004659be24d73622fc608842bd5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.500_xiy-1.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.000_xiy0.000.npz",
+      "size_bytes": 1144,
+      "sha256": "3e35d6dfa14009fc6a5fd35811b22b07b8f961c2c5f9104b2d7641df6f58c750",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.000_xiy0.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.100_xiy0.100.npz",
+      "size_bytes": 1144,
+      "sha256": "e4815cec494fe18ff1e237bdf7839489766e088625f0a6e826d9ec40f8e77314",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.100_xiy0.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.200_xiy0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "9cfb0a1ed5229e7c067187b29d2d725a8dd6c9904ace514bdda3f99556d4e1d7",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.200_xiy0.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.300_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "0fbd8913dd596237fdc0f53a90ad738a044c27984de67ece749133f88aaa7b69",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.300_xiy0.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.400_xiy0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "ffdf1cf72c9718affd754735f974af8f7787e5a7dc2c4c5c62e574472d93f84b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.400_xiy0.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "a4cca17ff47870266837003593b41bbc8a9e4693182b2f71fed0c8d2637b2834",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "b3841c22477b5f053c23e76e0676986c608b8951cc8c14425e7769646d22603b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.600.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.700.npz",
+      "size_bytes": 1120,
+      "sha256": "ce948da3307920e8c9a3d90f513f465773347644cd7af591a492363b136b9be5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.700.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.800.npz",
+      "size_bytes": 1120,
+      "sha256": "661464f9612362fce62ca8ee6ede92ec76d8a22b5d2e2a2881c70cd77d22fe0d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.800.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.900_xiy0.900.npz",
+      "size_bytes": 1120,
+      "sha256": "8e3566611fc029cdfcf0e907c8f9eddff464670d204bfbd4874c203d7ea67e13",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.900_xiy0.900.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.000_xiy1.000.npz",
+      "size_bytes": 1144,
+      "sha256": "545989a4d05938b93ee335726e28ba5411a7d628182a67e98132516ca0ea0571",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.000_xiy1.000.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.100_xiy1.100.npz",
+      "size_bytes": 1168,
+      "sha256": "c6b4415c65914202fede002dca3807dd8a9b5f4b5ecd57bc376cb8e9eaa5c938",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.100_xiy1.100.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.200_xiy1.200.npz",
+      "size_bytes": 1144,
+      "sha256": "01bffc88731b7c1a739fda136a799a29ebd7839ed8a09e0a6ad82cf889a2444f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.200_xiy1.200.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.300_xiy1.300.npz",
+      "size_bytes": 1144,
+      "sha256": "b6ae033347db230cf669216a306a923297b13a3921d420a1d81bea9b841ed5c4",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.300_xiy1.300.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.400_xiy1.400.npz",
+      "size_bytes": 1144,
+      "sha256": "2703834370025321327212e2f6ec4d85c8f2667fb694829b579d7240317b11de",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.400_xiy1.400.npz"
+    },
+    {
+      "source_label": "repo",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.500_xiy1.500.npz",
+      "size_bytes": 1096,
+      "sha256": "9862bacb5265836043fadffb5ba7f6b3adf723a6075f52fdd471c1b64f23e54c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.500_xiy1.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/Simplified/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.500.npz",
+      "size_bytes": 1168,
+      "sha256": "5c2fad9a0473dd3c6c009c117c4a384d8a97f61b100b30c319eda04843fbef3f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/Simplified/tune_map_Qx20.130_Qy20.180_xix0.605_xiy0.300.npz",
+      "size_bytes": 1168,
+      "sha256": "dbe1c8008734cdfae51679e180bade7c8284e5ec1e0f9cda016b92bef73d3c34",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.605_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/Simplified/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.500.npz",
+      "size_bytes": 1168,
+      "sha256": "5df9a4d47aeb008364859901f232f5fd9048287e61829adda4ed5706c29166d6",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/Simplified/tune_map_Qx20.130_Qy20.180_xix0.705_xiy0.300.npz",
+      "size_bytes": 1168,
+      "sha256": "deaa4c3ca95b0bff7eec40a7c282ce4a1cc247b9fd7d1cbec28ef967a437b48c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.705_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/Simplified/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.500.npz",
+      "size_bytes": 1168,
+      "sha256": "a9968d558a46e67008e0e25f1de8ea9dd959cd209673da6fa52d2ef3bf6e03b5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/Simplified/tune_map_Qx20.130_Qy20.180_xix0.805_xiy0.300.npz",
+      "size_bytes": 1168,
+      "sha256": "27b46581c02227a892150135f314f91729d8c69a6aff61eb8105d2c8847b83e5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.805_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.500.npz",
+      "size_bytes": 1120,
+      "sha256": "5ee6531055ae87a3b10e3873ed837979f09efeb3c21031567bbc36b84004f735",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.605_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "9c3cdf743bded544173811bddee73806f051f90f7c5ee6e196804d0922d921ca",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.605_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.500.npz",
+      "size_bytes": 1096,
+      "sha256": "7dcce42b25259d75b6efaf5929a3a9f4f8f1942964667e8ac37282915b6d875f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.705_xiy0.300.npz",
+      "size_bytes": 1120,
+      "sha256": "2d8456ff40cf29ae9070c04bac2a7b3aaafaf5ee19492ca28602a6661f956263",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.705_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.500.npz",
+      "size_bytes": 1096,
+      "sha256": "37d438e923fc30ad8313e5b174265aac380e49b9814f150546ec1dbb23efd77f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.805_xiy0.300.npz",
+      "size_bytes": 1120,
+      "sha256": "c638b4172ad7a56d348ea55871c819986d42adf17186596931a17ce912d6ddcf",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.805_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "ea75bb6127a10d73071729295c100fb08b87a7eda44054ef7a0d69c86c1ab42a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.605_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "7d3023b9488856cf6b900b8eb56e3699b4a31bf061b76982db5ee6c5a9dd9600",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.605_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.500.npz",
+      "size_bytes": 1120,
+      "sha256": "211f3818ddf82b9b526c59914610adb63cd7257bd8f9cacfeb7ba32c5cbc0f4e",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.705_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "6457a847ff2057907a41282e4bac7fc64134e903af5371172998b0b890e12a7a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.705_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "59757e485c73b304c39d5fa3f02dfdda6cde5396adff867179e6f81ec01a6bfa",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.805_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "d9a850151aa08b500892a8056b7711a91503c01e998d0754a0cf5c99aaf48948",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.805_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.200.npz",
+      "size_bytes": 1168,
+      "sha256": "3f69924a6998e257729f5b80975913257bb2ecc1faab8d9394717bbbb3ec190b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.250.npz",
+      "size_bytes": 1168,
+      "sha256": "4492c3e43b73e666e693487d38aed5daff1141b57e3decb115832dffa1377b9c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.250.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.300.npz",
+      "size_bytes": 1168,
+      "sha256": "f19d61387339f5c4c5e77d0abdde12f06892f388ef01aab8658a20ddc511daf4",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.350.npz",
+      "size_bytes": 1168,
+      "sha256": "57112bd54f2ec3bc5c3b97410f979f9dc2b66f4513ea2fdc6842ceb0de91655b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.350.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.400.npz",
+      "size_bytes": 1168,
+      "sha256": "dbaeea7d6d994bc6332a3183102daf59382f2e0cf4185602dc38ac89b54c0b6c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.450.npz",
+      "size_bytes": 1168,
+      "sha256": "b1be558eb9cf583df461f50e7db61b2314bf4947a44662a22e995d4e07982ae1",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.450.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "size_bytes": 1168,
+      "sha256": "e9b080e372a62db7b7fb21a8c7e011a1b75fea6a776bc2805039c6dbbde077a3",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.550.npz",
+      "size_bytes": 1168,
+      "sha256": "cc0c1ea05a07de1311c1b69271e41d61228357bd6559319e877fb43978617243",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.550.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.600.npz",
+      "size_bytes": 1168,
+      "sha256": "3263b50728eec6585716bb2395d7c2675e76c9e0d8ba541c99339fc1c8a145b3",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.600.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.650.npz",
+      "size_bytes": 1168,
+      "sha256": "75bcafb369c28e76806067c025a7ff78896560b6e9162d609326ee22784b2dae",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.650.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.700.npz",
+      "size_bytes": 1168,
+      "sha256": "3e4a46000e63dbe06d895673a15f50cd064f7be8d21a0ae52099a2bdebcf5351",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.700.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.750.npz",
+      "size_bytes": 1168,
+      "sha256": "e39bb7db8819276e8404c00c22c2bfa573541eb086c20fb606098722eef968b3",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.750.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.800.npz",
+      "size_bytes": 1168,
+      "sha256": "6ae081207e0428bd945fb1b4424004fb85afc1d61c7aa60f1e94cd431d27df79",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.800.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.850.npz",
+      "size_bytes": 1168,
+      "sha256": "811c2d15e17a5f3a4d23f08699111754943110d9ba5ddd907391369aaf14a4b0",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.850.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.900.npz",
+      "size_bytes": 1192,
+      "sha256": "963a6bbf4e815a00bd4be69f87e273864d750a2111c43800d6c82c228155ed29",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.900.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.950.npz",
+      "size_bytes": 1168,
+      "sha256": "c10af3410bd3ae3998c25528a71f8a5e8a6eede0989b59849e8d89f7c59b03bb",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.950.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.000.npz",
+      "size_bytes": 1168,
+      "sha256": "9c7023ec4807a8daf4924f7ed1473bfb989b5294c2f162d9892c4cacad06da1f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.150.npz",
+      "size_bytes": 1168,
+      "sha256": "9dbe30e339862944dfac74b262409e003cb70af09a835c967f3d1fb4ae22390a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.150.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.000.npz",
+      "size_bytes": 1168,
+      "sha256": "8f13dfead3ab4a70d70d3e62948ad16e04254508776e8f3a787bce7fbd2c5f88",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.050.npz",
+      "size_bytes": 1168,
+      "sha256": "2d9c0e25fe1ce5355108c2c1849e8d48e114acafe554791d79bc58bf54fee8c4",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.050.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.100.npz",
+      "size_bytes": 1168,
+      "sha256": "bd414235cfdc279809763fc16b9224f8b6f436c348177dadc39f4d8cf9fe093d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.100.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.150.npz",
+      "size_bytes": 1168,
+      "sha256": "b30d3badd07a16f6e9aa6abcbe79d9f122932ef5076541321fa5b34fd5b2c426",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.150.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.200.npz",
+      "size_bytes": 1168,
+      "sha256": "3c5ac55db98852db975fa0eb7a6c92f822f169802b02e48f45fac3dc7fa981d4",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.250.npz",
+      "size_bytes": 1168,
+      "sha256": "6bbf9c05414564a3ffe2d0b73f0e9a8655b26893e7920220f8bf719b1aa2c92f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.250.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.300.npz",
+      "size_bytes": 1168,
+      "sha256": "1c13736fe1db3324bf565d0c25caacb26704802c927af71dc9da9497a9ea3c57",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.350.npz",
+      "size_bytes": 1168,
+      "sha256": "89d696aa3aac35a820f5d52a2404550dfb719cc1efb5956d5dfec8c475d66925",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.350.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.400.npz",
+      "size_bytes": 1168,
+      "sha256": "7590b332765bf24cc3e3ec99cc82a2075a2197531f450bb80a5c04ef21f5efd0",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.450.npz",
+      "size_bytes": 1168,
+      "sha256": "fcd7f0b92816ae7da2390e0ad596773c2a791b2d25cedc9df335b7bc67dedff1",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.450.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.500.npz",
+      "size_bytes": 1168,
+      "sha256": "2ac8179804faabb6b8e28bbe902985de2c5ebba651aa130083dc7e71ace9a822",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.550.npz",
+      "size_bytes": 1168,
+      "sha256": "a2d3bc829af0235789f0693dd0d803aeaef98768a733280abdd05c4d7b927bfc",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.550.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.600.npz",
+      "size_bytes": 1168,
+      "sha256": "ac334856c38da39e03ea6899d442a52187e8d4664efdfdfae5bfe5e6608c7a0f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.600.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.650.npz",
+      "size_bytes": 1168,
+      "sha256": "7a16c377741ec742132585d814ac04631ac69020cf64609a4e08f35c37518a24",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.650.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.700.npz",
+      "size_bytes": 1168,
+      "sha256": "97d9036eceaa767cf3dd748725d1d40d8e554301b58fb11ca73888bd81d5cd53",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.700.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.750.npz",
+      "size_bytes": 1168,
+      "sha256": "9a72ca5dd39f574b2482aa8f03dc6bacc761cc172f2f44b37df891a620caa1b2",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.750.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.800.npz",
+      "size_bytes": 1168,
+      "sha256": "f6b2ed8da422e90d3db48334f7d5a03499118f7571567650ef593b9f472455bf",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.800.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "Simplified",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/Simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.950.npz",
+      "size_bytes": 1168,
+      "sha256": "528c1786fda74c39d7ad4a4d1d6eb7a814c87b5856cf883c204a33d2e962248a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/simplified/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.950.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "e383e5006eaaacb77d13c0027ee2282ae9e52c428358f5618df42b1630d50208",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.250.npz",
+      "size_bytes": 1120,
+      "sha256": "5503561ffbe3f5dd0eb5e86afadb3ab99c33fd7fa3f3949eb7b9774f77999360",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.250.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.300.npz",
+      "size_bytes": 1120,
+      "sha256": "9e1d5008544dd9510d6680a2eb65d2641a4c2404417948278ee39ef80a30cad0",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.350.npz",
+      "size_bytes": 1120,
+      "sha256": "cc247528801c35bceb519ee32c6d6fb3bdfbf07dca2aa2b7438c96bc65b8e045",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.350.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.400.npz",
+      "size_bytes": 1120,
+      "sha256": "95acf090177af5525c4eeaef769c6d2e2d85ee0b878ffd17d21a71851c0353fd",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.450.npz",
+      "size_bytes": 1120,
+      "sha256": "56435ef08d458b8cdbb5436f79bd92a3d2481da3b1d67dce84178718ca73c39a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.450.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.550.npz",
+      "size_bytes": 1120,
+      "sha256": "5ee510a537df25107db3f4e972389961ca5b9205d5597fc9acf211557a3190dd",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.550.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "b8fec6624d8604c3d2c43b64f4380e0284257f5dbbf6f7c33f710fa1b326c97f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.600.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.650.npz",
+      "size_bytes": 1144,
+      "sha256": "ba04e00a2a8b1bd5bfb3ed3ae7ba81f290c90a788f9d4db71cc29a083e5b6812",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.650.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.700.npz",
+      "size_bytes": 1144,
+      "sha256": "8a7a1442bb136478a8ffead28aa01445f678aa9a4c296002f23ed4964fc34c04",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.700.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.750.npz",
+      "size_bytes": 1144,
+      "sha256": "dc240f7c589ff8b1d332d4080eaaa0e945e2dfe4f636834886db19c26a56cadc",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.750.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.800.npz",
+      "size_bytes": 1144,
+      "sha256": "3a5a00baeefbf6472cb1c9d6082913cd1bef0e9a43e063dad6254c82fbe77942",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.800.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.850.npz",
+      "size_bytes": 1120,
+      "sha256": "2cc82e9ceab9162fb337b6e1b44d44d4989e73c809443bb629c12c60299b5315",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.850.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.900.npz",
+      "size_bytes": 1144,
+      "sha256": "a211702ad39037cd6e4726cbc34276506d6047a1f88117bd6c1b59ef1d8d7e88",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.900.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.950.npz",
+      "size_bytes": 1120,
+      "sha256": "f70558de99599e90357a8cd322fa1e72db930ccfdb608cff0e58a209ce6c2cbd",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.950.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.000.npz",
+      "size_bytes": 1120,
+      "sha256": "c18be8fadcf1affa0b87a218573c903087d53061ff7eeca6b713f1355f74d58d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.150.npz",
+      "size_bytes": 1144,
+      "sha256": "e82b98058a8b5a4bd73e42633706639ef3b8c134789800425f48cb739a9608af",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.150.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.000.npz",
+      "size_bytes": 1120,
+      "sha256": "60fbfb2e6bd773baaeb7a809643f506a8630d42a9ea402ccfed302d30cc20928",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.050.npz",
+      "size_bytes": 1120,
+      "sha256": "e5fc3fe51e1e50fa93223a66d3bf73efc922629038420a450b03a90bcb5d1f32",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.050.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.100.npz",
+      "size_bytes": 1120,
+      "sha256": "1710fba8f4957496dec5776ee3115671479682642e0c0ac2e6a6cc2de1b98724",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.100.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.150.npz",
+      "size_bytes": 1120,
+      "sha256": "d9c43e758f0fe6d4435fada9b0ee55e9511cddb0f850ef070aafe706ba084c47",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.150.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "fffeb978ddfc6a5679489a6e9f2cc3c21462a4f29a4bf70363fb48c87e55e071",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.250.npz",
+      "size_bytes": 1120,
+      "sha256": "c8e5c9ee8d855f69ac6c02359c985f5c310a1214923b51f6d6649c35dfcbbd86",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.250.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.300.npz",
+      "size_bytes": 1120,
+      "sha256": "e80151350533a18fbb51e6f45883aa77b151655fc50e2b5217fdba6905b6501f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.350.npz",
+      "size_bytes": 1120,
+      "sha256": "4bdf428959d8fa19334b1c4f42b0166d984b8b23414065447c69bc71a6ce337c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.350.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.400.npz",
+      "size_bytes": 1120,
+      "sha256": "cacc23471bfe9c05fd926f3a46e6d7cccc22d1534102dbe509edda1d79fa6dab",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.450.npz",
+      "size_bytes": 1120,
+      "sha256": "349876abaccb7e90d12f973900a01aa970ba88a1c2f048db96955309162b979b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.450.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.500.npz",
+      "size_bytes": 1120,
+      "sha256": "d9f51f9b8145e3f84ceac8472f580195100903d59078ffebcabf2e14f55256d1",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.550.npz",
+      "size_bytes": 1096,
+      "sha256": "1c90d1f2055873ff10cd9297edee7702a0bf69c24b36a8daa4204091d04a8a2d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.550.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.600.npz",
+      "size_bytes": 1120,
+      "sha256": "4260eb48c22277a1f62e2ea2ca8d2338393a1cb14462b895813763650e7095bf",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.600.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.650.npz",
+      "size_bytes": 1120,
+      "sha256": "39a4362e5998005b7c7acf8abe899f25d5c499b7a7a1e726a207aa1d0c1bb760",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.650.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.700.npz",
+      "size_bytes": 1120,
+      "sha256": "2ee3f32abdde4e3b7ff25e649b70354fde8620dbd4ca3598a0c9c68b11b8bdbb",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.700.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.750.npz",
+      "size_bytes": 1144,
+      "sha256": "6afc2a8f4ad63199b441d74d7b5a4264bc3469d79afac16ed5eafc445060bc7b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.750.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.800.npz",
+      "size_bytes": 1144,
+      "sha256": "e4eab413743ec3088b8db7f40ffbd2834a2d9507edd227137acc9d92190f0ff0",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.800.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.950.npz",
+      "size_bytes": 1120,
+      "sha256": "442c83a8463790ae50ef2dbebe70027f69aa95a26ac19750861e54b7cafc07b8",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.950.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "a9c079c87215bef06e00da7a8e25838b7668af3ad1899dcd4411a9519c4761ed",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.250.npz",
+      "size_bytes": 1144,
+      "sha256": "b364e971d0c9ebb9b7f4722b6bb20f356241ecdfb4595ff3ce6da4101ffa2db5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.250.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "356a164a0c85401056aff7c54d847d99521fa3029293f5edc2e57ba6f5116579",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.350.npz",
+      "size_bytes": 1144,
+      "sha256": "06600c2cc637f2b05693ab58c2d9007ae3edeb3a76f829bc09c0cfd230b119e1",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.350.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "426e6a174f5100010ac59c266eb6e8e4e770542bfca86051818bb555724c12a0",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.450.npz",
+      "size_bytes": 1144,
+      "sha256": "f7734accb656f101cd95f3602bc3ff279323c4443cd4daf1520c677dd8a500e8",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.450.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.550.npz",
+      "size_bytes": 1144,
+      "sha256": "de42e8cbc53861e41a563493a95a66c8ca547cb88f2feca2628f908f72edef7e",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.550.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "57c4dccf345c61ff65a6c24775e0582026bd1e84382e87897690e7eb4e99d1f8",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.600.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.650.npz",
+      "size_bytes": 1144,
+      "sha256": "0924be969cb7b5da68e5a7046211ff5e01e02dbf9cee1e669d6f2bc5504b1022",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.650.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.700.npz",
+      "size_bytes": 1144,
+      "sha256": "d7ea9cf3506cc71307b617b26e81715e7f351dc659e3108c4ad623fbaec5bf87",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.700.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.750.npz",
+      "size_bytes": 1144,
+      "sha256": "5dd1c3795374ac922780983e65c492a80c6f11e14303960b936287b4a2d7cf05",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.750.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.800.npz",
+      "size_bytes": 1144,
+      "sha256": "05070f16c343174a5260e5fc6a10314153bdac57abfd02441aebd7fc231f533d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.800.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.850.npz",
+      "size_bytes": 1144,
+      "sha256": "8300f42910130f41f449cffc682b36dd9473fb9ce59bab887dc7c190b0eba9db",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.850.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.900.npz",
+      "size_bytes": 1144,
+      "sha256": "0078125b59ce3de0e8bcc53fe799ea47852c52ae26fd7d37e3cedfe0bc4fd90c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.900.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.950.npz",
+      "size_bytes": 1120,
+      "sha256": "c53df3660258da3fecf5234df705925f95a84deaf44892275e7a72e8aed7b8a8",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.950.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.000.npz",
+      "size_bytes": 1144,
+      "sha256": "87396104f0d693ef6705d9e7638d0a8497401d9af61bfa682f47b0b3a97246be",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.150.npz",
+      "size_bytes": 1120,
+      "sha256": "0ea4bde8f4169b27bb90c1a7aa97b19cd23e4493dbe02f4a6e757586c158828c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy1.150.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.000.npz",
+      "size_bytes": 1144,
+      "sha256": "026c35438eb73fbb20d072abe010f112ea27522d6d2d859a9044fb3db914ca95",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.050.npz",
+      "size_bytes": 1144,
+      "sha256": "518d10bcc8ff20a1389f6b59f73f82d3d8c430d024844ac88d565d030bdb3b57",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.050.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.100.npz",
+      "size_bytes": 1144,
+      "sha256": "4212f8706ae14188df5e5f5c0a762b4299b89378a2de67b69903cea453dbea8a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.100.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.150.npz",
+      "size_bytes": 1144,
+      "sha256": "5b7eadd1f4b78aa0a3e91ce5ec77ab582b0afef7e0900f579d1d83ac6e5a9bf5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.150.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "10b7d2c6ddd10a2fa97db5f771c12995cf7c69252302bdec2d968d9a3640fbdf",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.250.npz",
+      "size_bytes": 1144,
+      "sha256": "7ed0a94256633cec292292b1720f6746496cbbbcb7b38bc14277cfe7bfdf3abd",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.250.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "2be6e01531152e48565cf8e93010659878dcdf3e13f85b2263ef378edd1b1c3f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.350.npz",
+      "size_bytes": 1144,
+      "sha256": "deecd02c8bdf35fa9fb841bce73587bfc17e8b3bf8258e14f416ab52bf0bafaf",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.350.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "27c5085753d7aa929268728f48794e8fb79f88d30ab68d5bdb7d2dc2c931134b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.450.npz",
+      "size_bytes": 1144,
+      "sha256": "59ff05f9debe09ca3a88f2ad95753e0b1d387bf3c7cc1ddeddc631e7a029fc05",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.450.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "20d69ee7380ec058d48fa11c9bd503705bfbc746b8acb6e479728677d7629583",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.550.npz",
+      "size_bytes": 1144,
+      "sha256": "1bb1b431f1b3604b330010efa192d05a5a553241b923bf87698abfbfae4b847a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.550.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "286daa69ede0fc266f0f94eefc7a9018c70935f8a53b818543dbc5525939dc24",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.600.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.650.npz",
+      "size_bytes": 1144,
+      "sha256": "5157e369f3047b285907a67f5c45a48c0d463c1da335a155225553e6a465a61b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.650.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.700.npz",
+      "size_bytes": 1144,
+      "sha256": "2c2d66adb09b33798a15b723782df260d1e968e9e2cfabb72157c5ebc6884c78",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.700.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.750.npz",
+      "size_bytes": 1144,
+      "sha256": "fec6702b610edc9f72685ab13f968604770500fe0785ac8d0c1de0d6a2559eb9",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.750.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.800.npz",
+      "size_bytes": 1144,
+      "sha256": "830ba3ef7698b71f072c20d25724364c742b4b9f035693cf7b4337c002e9cacc",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.800.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.950.npz",
+      "size_bytes": 1120,
+      "sha256": "ac41d45ea87d84515dabcb50885ec516fa9cd3b2fb761d39c39bf3675b074e88",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.505_xiy0.950.npz"
+    }
+  ],
+  "skipped_identical": [
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.100_xiy-0.100.npz",
+      "size_bytes": 1144,
+      "sha256": "e454fb109a0f226caa51069be29d43a6e666bb843e378b7f54303f5611c34438",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.100_xiy-0.100.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.200_xiy-0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "2c1a9266ab981969ff9ecc18a374f3ba59ed8dfa516e64129e608aa381019e8a",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.200_xiy-0.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.300_xiy-0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "c27c29dc758b5cb9e11cc51fe2e4b01dc0cc9e4f07be1a3c5488e428f9bfd695",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.300_xiy-0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.400_xiy-0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "68afa5771b116d6fa59e6f9509a731807278487b08ff95352221b12752dd30db",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.400_xiy-0.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.500_xiy-0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "ec05fd9003009462be1d210c6b1542f78249e00333aa687a5fb0a17a2dda63ba",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.500_xiy-0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.600_xiy-0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "aeca1720f3ab2d16207c10c5afb42874660b935a2937da262b50c23b31ac7a8d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.600_xiy-0.600.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.700_xiy-0.700.npz",
+      "size_bytes": 1120,
+      "sha256": "72f4216abda2b73f6f6d9cdb999a712cd21e84b819b5643374cce2ecba62487b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.700_xiy-0.700.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.800_xiy-0.800.npz",
+      "size_bytes": 1144,
+      "sha256": "6a17166a5e1547aeb795902f5c2ec3279254916597e7c9134b993a2740d86353",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.800_xiy-0.800.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-0.900_xiy-0.900.npz",
+      "size_bytes": 1120,
+      "sha256": "b7b86da94e00f5bb531dd9db429d0ac6980df9d432d0da34415b2a452d626f0c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-0.900_xiy-0.900.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.000_xiy-1.000.npz",
+      "size_bytes": 1144,
+      "sha256": "744643077f45ac8703cbd835c99a112b9a90017c68973c7e417cda919ffe3ea3",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.000_xiy-1.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.100_xiy-1.100.npz",
+      "size_bytes": 1120,
+      "sha256": "a8a8c8cf69e1f8138c77ccecfd72f8377efdf94361c55ec2e95eb71d862d8b76",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.100_xiy-1.100.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.200_xiy-1.200.npz",
+      "size_bytes": 1168,
+      "sha256": "5f7175ff58917ce96e529fe81c18113f0a4cc66bde54660f8045a167641059bc",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.200_xiy-1.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.300_xiy-1.300.npz",
+      "size_bytes": 1120,
+      "sha256": "326bf7acf1e071e0bfb01ed233e332732bbea73c0326eb6e1a1f0f579f4d6c08",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.300_xiy-1.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.400_xiy-1.400.npz",
+      "size_bytes": 1072,
+      "sha256": "45e806ff5b752b85bf4bce323cddd9d4841aef1da441260b21728765bc50b014",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.400_xiy-1.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix-1.500_xiy-1.500.npz",
+      "size_bytes": 1144,
+      "sha256": "9da81c109f91ff7e6b09ff6b77b9c169a88f6004659be24d73622fc608842bd5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix-1.500_xiy-1.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.000_xiy0.000.npz",
+      "size_bytes": 1144,
+      "sha256": "3e35d6dfa14009fc6a5fd35811b22b07b8f961c2c5f9104b2d7641df6f58c750",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.000_xiy0.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.100_xiy0.100.npz",
+      "size_bytes": 1144,
+      "sha256": "e4815cec494fe18ff1e237bdf7839489766e088625f0a6e826d9ec40f8e77314",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.100_xiy0.100.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.200_xiy0.200.npz",
+      "size_bytes": 1144,
+      "sha256": "9cfb0a1ed5229e7c067187b29d2d725a8dd6c9904ace514bdda3f99556d4e1d7",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.200_xiy0.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.300_xiy0.300.npz",
+      "size_bytes": 1144,
+      "sha256": "0fbd8913dd596237fdc0f53a90ad738a044c27984de67ece749133f88aaa7b69",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.300_xiy0.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.400_xiy0.400.npz",
+      "size_bytes": 1144,
+      "sha256": "ffdf1cf72c9718affd754735f974af8f7787e5a7dc2c4c5c62e574472d93f84b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.400_xiy0.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "a4cca17ff47870266837003593b41bbc8a9e4693182b2f71fed0c8d2637b2834",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.600.npz",
+      "size_bytes": 1144,
+      "sha256": "b3841c22477b5f053c23e76e0676986c608b8951cc8c14425e7769646d22603b",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.600_xiy0.600.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.700.npz",
+      "size_bytes": 1120,
+      "sha256": "ce948da3307920e8c9a3d90f513f465773347644cd7af591a492363b136b9be5",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.700_xiy0.700.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.800.npz",
+      "size_bytes": 1120,
+      "sha256": "661464f9612362fce62ca8ee6ede92ec76d8a22b5d2e2a2881c70cd77d22fe0d",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.800_xiy0.800.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.900_xiy0.900.npz",
+      "size_bytes": 1120,
+      "sha256": "8e3566611fc029cdfcf0e907c8f9eddff464670d204bfbd4874c203d7ea67e13",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.900_xiy0.900.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.000_xiy1.000.npz",
+      "size_bytes": 1144,
+      "sha256": "545989a4d05938b93ee335726e28ba5411a7d628182a67e98132516ca0ea0571",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.000_xiy1.000.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.100_xiy1.100.npz",
+      "size_bytes": 1168,
+      "sha256": "c6b4415c65914202fede002dca3807dd8a9b5f4b5ecd57bc376cb8e9eaa5c938",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.100_xiy1.100.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.200_xiy1.200.npz",
+      "size_bytes": 1144,
+      "sha256": "01bffc88731b7c1a739fda136a799a29ebd7839ed8a09e0a6ad82cf889a2444f",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.200_xiy1.200.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.300_xiy1.300.npz",
+      "size_bytes": 1144,
+      "sha256": "b6ae033347db230cf669216a306a923297b13a3921d420a1d81bea9b841ed5c4",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.300_xiy1.300.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.400_xiy1.400.npz",
+      "size_bytes": 1144,
+      "sha256": "2703834370025321327212e2f6ec4d85c8f2667fb694829b579d7240317b11de",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.400_xiy1.400.npz"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanX",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanX/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix1.500_xiy1.500.npz",
+      "size_bytes": 1096,
+      "sha256": "9862bacb5265836043fadffb5ba7f6b3adf723a6075f52fdd471c1b64f23e54c",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix1.500_xiy1.500.npz"
+    }
+  ],
+  "skipped_conflict": [
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "size_bytes": 1120,
+      "sha256": "1cb7cd73fed284b0de79d3dc9d104362cd05acc73ff2641899fb88b3da41e8e8",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "kept_existing_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/with_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "kept_existing_sha256": "8af6916a4963e6e5a70e35bc5d2d1b6f3ca3770303267f0a8f2b58df573d8c31"
+    },
+    {
+      "source_label": "legacy",
+      "scan": "ChromaScanY",
+      "case": "WithoutErrors",
+      "source_path": "/Users/lisepauwels/sps_simulations/Prototyping/20260317/SweepTrajectoryMaps/ChromaScanY/WithoutErrors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "size_bytes": 1144,
+      "sha256": "5e13f12502cb4b3d53cff5975dc71bf6b2d73e8d0fb06e2e336ebfc6839c97cc",
+      "target_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "kept_existing_path": "/Users/lisepauwels/phd/data/sps-chromaticity-maps/without_errors/tune_map_Qx20.130_Qy20.180_xix0.500_xiy0.500.npz",
+      "kept_existing_sha256": "a4cca17ff47870266837003593b41bbc8a9e4693182b2f71fed0c8d2637b2834"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "cache_key": "1c20afb42ea16ff7",
+  "created_at": "2026-04-17T11:16:43.945822",
+  "line_path": "/Users/lisepauwels/phd/code/sps-xsuite-model/sps_with_aperture_inj_q20_beam_sagitta4.json",
+  "qx": 20.13,
+  "qy": 20.18,
+  "xi_x": 0.5,
+  "xi_y": 0.5,
+  "sextupoles_mode": "on",
+  "error_variant": "all",
+  "dq_per_turn_x": 0.0,
+  "dq_per_turn_y": -3.1e-05,
+  "num_turns": 6000,
+  "schedule_points": 41
+}

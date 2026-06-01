@@ -1,0 +1,7 @@
+{
+  "batch_dir": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/sextupoles_off/sextupoles_off_monitor_outputs/sextupoles_off_2000p_lossonly",
+  "cases": {
+    "DPpos": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/sextupoles_off/sextupoles_off_monitor_outputs/sextupoles_off_2000p_lossonly/DPpos",
+    "DPneg": "/Users/lisepauwels/phd/code/sps-momentum-acceptance/tests/sextupoles_off/sextupoles_off_monitor_outputs/sextupoles_off_2000p_lossonly/DPneg"
+  }
+}
