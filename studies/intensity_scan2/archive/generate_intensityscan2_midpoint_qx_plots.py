@@ -18,10 +18,14 @@ import midpoints_analysis as mpa
 from tune_diagram import TuneMap
 
 
-DEFAULT_STUDY_ROOT = Path(
-    "/Users/lisepauwels/sps_simulations/Studies/MomentumAcceptance/IntensityScan2"
+sys.path.insert(0, str(REPO_ROOT / "helper_functions"))
+from load_paths import get_path as _get_path
+DEFAULT_STUDY_ROOT = (
+    _get_path("sps_simulations_data_root",
+               default=str(Path.home() / "phd" / "data" / "sps-simulations"))
+    / "momentum-acceptance" / "intensity_scan2"
 )
-DEFAULT_MD_ROOT = Path("/Users/lisepauwels/sps_simulations/MD_data/20250616")
+DEFAULT_MD_ROOT = Path(__file__).resolve().parent / "data"
 DEFAULT_OUTPUT_DIRNAME = "Figures_midpoint_qx"
 DEFAULT_MAP_ROOT = REPO_ROOT / "sps-chromaticity-maps" / "without_errors"
 

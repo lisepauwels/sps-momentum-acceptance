@@ -20,8 +20,6 @@ import json
 from pathlib import Path
 import sys
 
-import matplotlib
-matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -31,8 +29,12 @@ sys.path.insert(0, str(REPO_ROOT / "helper_functions" / "intensity_helpers"))
 from intensity_loss import plot_intensity_drop
 from midpoints_analysis import df_to_delta
 
-DEFAULT_STUDY_ROOT = Path(
-    "/Users/lisepauwels/sps_simulations/Studies/MomentumAcceptance/IntensityScan2"
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "helper_functions"))
+from load_paths import get_path as _get_path
+DEFAULT_STUDY_ROOT = (
+    _get_path("sps_simulations_data_root",
+               default=str(Path.home() / "phd" / "data" / "sps-simulations"))
+    / "momentum-acceptance" / "intensity_scan2"
 )
 SWEEP_PER_TURN = 1.0
 NUM_PARTICLES = 2000 * 500
@@ -81,6 +83,9 @@ def load_normalised_intensity(study_results_dir: Path) -> dict:
 
 
 def main() -> None:
+    import matplotlib
+    matplotlib.use("Agg")
+
     args = parse_args()
     study_results_dir = args.study_root / "study_results"
     if not study_results_dir.exists():

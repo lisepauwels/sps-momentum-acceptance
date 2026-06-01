@@ -20,8 +20,6 @@ import json
 from pathlib import Path
 import sys
 
-import matplotlib
-matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -38,8 +36,13 @@ from generate_intensityscan2_midpoint_qx_plots import (
     plot_qy_midpoints_vs_xi,
 )
 
-STUDY_ROOT      = Path("/Users/lisepauwels/sps_simulations/Studies/MomentumAcceptance/IntensityScan2")
-MD_ROOT         = Path("/Users/lisepauwels/sps_simulations/MD_data/20250616")
+from load_paths import get_path as _get_path
+STUDY_ROOT = (
+    _get_path("sps_simulations_data_root",
+               default=str(Path.home() / "phd" / "data" / "sps-simulations"))
+    / "momentum-acceptance" / "intensity_scan2"
+)
+MD_ROOT    = Path(__file__).resolve().parent / "data"
 MAP_ROOT_LINEAR = REPO_ROOT / "sps-chromaticity-maps" / "without_errors"
 MAP_ROOT_ERRORS = REPO_ROOT / "sps-chromaticity-maps" / "with_errors"
 OUTPUT_DIR      = Path(__file__).resolve().parent / "Figures"
@@ -163,6 +166,9 @@ def generate(normalised_intensity, md_midpoints, line_types: list[str], suffix: 
 
 
 def main() -> None:
+    import matplotlib
+    matplotlib.use("Agg")
+
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     print("Loading simulation data...")

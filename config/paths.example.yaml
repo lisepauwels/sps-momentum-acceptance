@@ -2,7 +2,7 @@ xsuite_root: /Users/lisepauwels/Xsuite
 legacy_workspace_root: /Users/lisepauwels/sps_simulations
 
 # sps-simulations GitLab repo: HTCondor simulation results
-sps_simulations_data_root: /Users/lisepauwels/phd/code/sps-simulations
+sps_simulations_data_root: /Users/lisepauwels/phd/data/sps-simulations
 
 # Chromaticity maps and sweep trajectory maps
 sps_chromaticity_maps_root: /Users/lisepauwels/phd/code/sps-momentum-acceptance/sps-chromaticity-maps

@@ -41,8 +41,9 @@ Copy the path config and fill in your local paths:
 cp config/paths.example.yaml config/paths.yaml
 ```
 
-The minimum required key is `sps_simulations_data_root` (path to your local clone of the
-`sps-simulations` GitLab repo). Everything else has a sensible default.
+The minimum required key is `sps_simulations_data_root` — the absolute path to your local clone
+of the `sps-simulations` CERN GitLab repo (e.g. `~/phd/data/sps-simulations`).
+Everything else has a sensible default.
 
 ## Where to find things
 
@@ -70,12 +71,14 @@ Canonical location: `helper_functions/tune_diagram_helpers/`
 | Script | Purpose |
 |--------|---------|
 | `generate_figures.py` | **Main entry point** — regenerates all figures |
-| `figures.ipynb` | Interactive version of generate_figures.py |
+| `figures.ipynb` | Interactive version of generate_figures.py (inline plots) |
 | `generate_intensityscan2_missing_without_errors_maps.py` | Generate sweep maps for study chroma points |
 | `plot_*.py` | Individual figure scripts (called by generate_figures.py) |
 | `data/midpoints_MD.json` | Real machine δ₅₀ midpoints from 2025-06-16 MD |
+| `archive/` | Old scan_cfg-API plotting modules (no longer used) |
 
 Simulation results (gzip files) live in `sps-simulations/momentum-acceptance/intensity_scan2/study_results/`.
+All plot scripts resolve the data root via `get_path("sps_simulations_data_root")` from `config/paths.yaml`.
 
 ### New error model
 
